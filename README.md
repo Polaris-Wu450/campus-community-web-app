@@ -5,7 +5,7 @@
 ## Product Vision Statement
 NextQuad is a verified campus community platform that connects NYU students through study space discovery, event management, social feed, and marketplace features, all within a safe, authenticated environment for academic collaboration and campus life.
 
-## Team Roles
+## Team Roles (Agile Development)
 **Developers**
 - **[Polaris Wu](https://github.com/Polaris-Wu450)**
 - **[Xiaohan Zhou](https://github.com/XiaohanZhou711)**
